@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sirirat Somsup
 ======================================================================================================================================
 
-Libraian,Curator,UX Designer,Event
-----------------------------------
+Librian,Curator,UX Designer,Event
+---------------------------------
 
 I've been learning in information studies program at Burapha University, Chonburi, Thailand
 
